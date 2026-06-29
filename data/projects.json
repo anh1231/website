@@ -11,12 +11,12 @@
       ],
       "technologies": ["JAX", "TPU", "vLLM", "PyTorch", "Python"],
       "links": {
-        "github": null,
+        "github": "https://github.com/anh1231/tpu-spec-decode",
         "demo": null,
         "website": null,
         "documentation": null
       },
-      "image": null,
+      "image": "/images/spec-decode.png",
       "status": "Sep 2025 – Feb 2026 · University of California, San Diego"
     },
     {
@@ -34,7 +34,7 @@
         "website": null,
         "documentation": null
       },
-      "image": null,
+      "image": "/images/BCI.png",
       "status": "Jan 2025 – Apr 2025 · University of California, San Diego"
     },
     {
@@ -49,10 +49,10 @@
       "links": {
         "github": null,
         "demo": null,
-        "website": null,
+        "website": "https://anh1231.github.io/LOL-ADC-Midlane-Analyis/",
         "documentation": null
       },
-      "image": null,
+      "image": "/images/LOL-Analysis.png",
       "status": "Jun 2023 – Jul 2023 · University of California, San Diego"
     },
     {
