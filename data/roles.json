@@ -1,0 +1,14 @@
+{
+  "roles": [
+    {
+      "id": 1,
+      "title": "Data Science Intern",
+      "organization": "San Diego Association of Governments (SANDAG)",
+      "location": "San Diego, CA",
+      "startDate": "June 2025",
+      "endDate": "Present",
+      "isCurrent": true,
+      "description": "Built a cloud data warehouse in Microsoft Fabric from scratch using a Lakehouse architecture to support scalable data ingestion, transformation, and storage. Developed Dataflow Gen2 pipelines to migrate data into a structured, maintainable environment for analytics and reporting. Designed ingestion and transformation workflows improving data accessibility and reliability across datasets. Queried and validated large datasets using SQL Server, implementing reconciliation checks to ensure reporting accuracy. Automated CSV processing, email data extraction, and report generation using Python, reducing manual workload by ~10 hours/week."
+    }
+  ]
+}

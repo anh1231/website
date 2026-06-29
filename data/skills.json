@@ -1,0 +1,8 @@
+{
+  "skills": {
+    "Languages": ["Python", "Java", "JavaScript", "SQL", "HTML/CSS", "R", "C"],
+    "Frameworks": ["React", "Next.js", "FastAPI", "Tailwind CSS", "OpenAPI", "Node.js"],
+    "Libraries & Tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn", "OpenCV", "Git", "Prism", "Microsoft Fabric", "SQL Server"],
+    "Technologies": ["Machine Learning", "Data Analysis", "Data Visualization"]
+  }
+}

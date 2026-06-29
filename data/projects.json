@@ -1,0 +1,77 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "LLM Speculative Decoding on TPU (DFlash)",
+      "bulletPoints": [
+        "Ported diffusion-based speculative decoding from PyTorch/GPU to JAX/TPU within the vLLM inference framework.",
+        "Achieved 2.85x serving speedup (265 TPS) and up to 3.02x standalone speedup (773 TPS) on TPU v4/v5p.",
+        "Diagnosed and fixed sequence-length alignment bug, improving acceptance length from 2.49 to 4.75 and speedup from 1.30x to 2.85x.",
+        "Contributed production-ready code including model integration, proposer logic, benchmarking tools, tests, and CI."
+      ],
+      "technologies": ["JAX", "TPU", "vLLM", "PyTorch", "Python"],
+      "links": {
+        "github": null,
+        "demo": null,
+        "website": null,
+        "documentation": null
+      },
+      "image": null,
+      "status": "Sep 2025 – Feb 2026 · University of California, San Diego"
+    },
+    {
+      "id": 2,
+      "title": "Brain-Computer Interface (BCI) Mouse via EEG",
+      "bulletPoints": [
+        "Developed a BCI-powered cursor control system using EEG signals and SSVEP classification for hands-free interaction.",
+        "Achieved 100% directional accuracy across 25 trials through optimized signal processing and classification pipelines.",
+        "Improved EEG data collection efficiency by 15% through enhancements in experimental setup and data acquisition."
+      ],
+      "technologies": ["EEG", "SSVEP", "Signal Processing", "Python", "Machine Learning"],
+      "links": {
+        "github": null,
+        "demo": null,
+        "website": null,
+        "documentation": null
+      },
+      "image": null,
+      "status": "Jan 2025 – Apr 2025 · University of California, San Diego"
+    },
+    {
+      "id": 3,
+      "title": "League of Legends Data Analysis & Baseline Model",
+      "bulletPoints": [
+        "Built a logistic regression model using gameplay statistics from 50,000+ matches to predict match outcomes.",
+        "Performed univariate and bivariate analysis to identify key features influencing outcomes.",
+        "Improved model accuracy by ~10% while analyzing bias and feature importance."
+      ],
+      "technologies": ["Python", "Pandas", "NumPy", "Matplotlib", "Machine Learning"],
+      "links": {
+        "github": null,
+        "demo": null,
+        "website": null,
+        "documentation": null
+      },
+      "image": null,
+      "status": "Jun 2023 – Jul 2023 · University of California, San Diego"
+    },
+    {
+      "id": 4,
+      "title": "Ecommerce Dashboard",
+      "bulletPoints": [
+        "Ecommerce dashboard that brings spreadsheet style workflows to a mobile first experience.",
+        "Next.js frontend, MongoDB backend, and Google Authentication for secure user access.",
+        "Product, order, and reporting views tailored for small business style operations."
+      ],
+      "technologies": ["Next.js", "MongoDB", "Google Authentication", "React", "TypeScript"],
+      "links": {
+        "github": "https://github.com/jordanchen321/ecommerce-dashboard",
+        "demo": "https://ecommerce-dashboard-phi-five.vercel.app/",
+        "website": null,
+        "documentation": null
+      },
+      "image": "/images/Ecommerce-dashboard-image.png",
+      "status": null
+    }
+  ]
+}
